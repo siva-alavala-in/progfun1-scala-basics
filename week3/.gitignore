@@ -1,0 +1,19 @@
+.classpath
+.cache-main
+.project
+.settings
+target/
+build/
+WebContent/
+logs/
+native/
+custom.sbt
+.history
+
+# IntelliJ project files
+.idea/
+*.iml
+gen
+
+# contains FindSecurityBugs reports
+finalAPI
